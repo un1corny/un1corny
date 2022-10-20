@@ -23,7 +23,7 @@ I’m confident that I’ll find an approach to any task. What I don’t know ye
 ![Cypress.io](https://img.shields.io/badge/-Cypress.io-blue?style=for-the-badge&logo=Cypress)
 ![Postman](https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=Postman)
 
-<<<<<<< HEAD
-=======
-Follow me
->>>>>>> ce8150f6632fa2283bf3b92f7c75048c8f0066c6
+### Contact me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alina-chistiakova/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blueviolet?style=for-the-badge&logo=Telegram)](https://t.me/alinsimpson)
+
