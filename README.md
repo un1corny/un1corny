@@ -19,7 +19,7 @@ I’m confident that I’ll find an approach to any task. What I don’t know ye
 ![TestRail](https://img.shields.io/badge/-TestRail-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABOFBMVEUON1QNNlQNNlMON1MSPVQVQVQUP1QPOFMPOVNBe1RgpFRUk1QZRlQQOlNQj1R4xFVnrVQcSlQNNVNAeVReoVRRkVQYRVQLNFMLNVMMNVMOOFMfTlMoWlQjVFQWP1QuUFY0VlYoS1UPOFQSPFNKh1Rpr1RXmVQ2XVa5v1/b22KXpF0XPlQSPVNUlVR4w1VjqVQ9Y1bU1GH89WSttl8YP1Q5cVNPjVRCfVQrUlWKmVyirV5xhloTPFQLNlMMNlMlVlMxZlQrXVQXQ1QsXlQzZlQlV1QhOlRJO1dMO1cpOVVxu1Vfo1QoWVRwulRNj1RIQVa/RF3HRl1fPVdTk1R2wVVjqFQpW1RQlFRLQVbHRV3PRl1iPVgxZVRCfFQ5cFQbSVMvZlQtPFVrPlhvPlg5OlYNN1MNN1T////7icR2AAAAAWJLR0RnW9PpswAAAAd0SU1FB+YKFAsJOGyXZmAAAACjSURBVAjXY2BAA4yMTIyMSHxmFlY2diQBDk4ubh4mBJ+Xj19AUAhJXlhEVExcQhKmREpaRlZOXkFRCSqgrKKqpq6hqaUN5evo6ukbGBoZm0D5vKZm5haWVtY2trZ2YPPsHRydnF1c3dw9PEFKlPm8vH28ff38AwKDbEH6g0NCw0JDwiMio6JBfN6Y2Lj4uNiExKTkFJABzEypTEwgnJaaCuQCAHZpGP+JaCIFAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTEwLTIwVDExOjA5OjU2KzAwOjAwBCsslAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0xMC0yMFQxMTowOTo1NiswMDowMHV2lCgAAAAASUVORK5CYII=)
 ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=Git)
 
-### In Progress
+### In Learning
 ![Cypress.io](https://img.shields.io/badge/-Cypress.io-blue?style=for-the-badge&logo=Cypress)
 ![Postman](https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=Postman)
 
