@@ -13,12 +13,12 @@ And I'm open to new job offers. I'm inspired and motivated by the opportunity to
 I’m confident that I’ll find an approach to any task. What I don’t know yet, I will study (with enthusiasm! because I do like what I do).
 
 ### Test Documentation (in progress)
-* ![Checklists](https://github.com/un1corny/checklists)
+* [Checklists](https://github.com/un1corny/checklists)
 * Test Cases
 * Bug Reports
 * SQL Queries
 * Postman Collections
-* ![Mindmaps and Flowcharts](https://github.com/un1corny/mindmaps-and-flowcharts)
+* [Mindmaps and Flowcharts](https://github.com/un1corny/mindmaps-and-flowcharts)
 
 ### Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-blue?style=for-the-badge&logo=androidstudio)
