@@ -16,6 +16,7 @@ I’m confident that I’ll find an approach to any task. What I don’t know ye
 * [Checklists](https://github.com/un1corny/checklists)
 * Test Cases
 * Bug Reports
+* [Automation Testing](https://github.com/un1corny/automation-testing)
 * SQL Queries
 * Postman Collections
 * [Mindmaps and Flowcharts](https://github.com/un1corny/mindmaps-and-flowcharts)
